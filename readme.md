@@ -5,6 +5,8 @@
 ## Description
 Dynamically prevent text orphans by enforcing a minimum number of words in the last line of any text block.
 
+**[View Demo](http://scariati.kissr.com/github/pto/)**
+
 ## Dependencies
 * [jQuery](http://jquery.com)
 
