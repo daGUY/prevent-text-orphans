@@ -11,12 +11,12 @@ Dynamically prevent text orphans by enforcing a minimum number of words in the l
 * [jQuery](http://jquery.com)
 
 ## Use
-Include jQuery and the `jquery.preventTextOrphans.js` plugin in your HTML:
+Include jQuery and the `jquery.preventTextOrphans.min.js` plugin in your HTML:
 
 ```html
 <head>
 	<script src="lib/jquery.min.js"></script>
-	<script src="lib/jquery.preventTextOrphans.js"></script>
+	<script src="lib/jquery.preventTextOrphans.min.js"></script>
 </head>
 ```
 
